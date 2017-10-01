@@ -18,4 +18,4 @@ pages:
   - 参加規約:
       - '参加規約': 'terms.md'
       - 'アンチハラスメントポリシー': 'anti-harassment.md'
-theme: yeti
+theme: bootstrap
