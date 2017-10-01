@@ -41,4 +41,4 @@
 [[目次へ戻る](../README.md)] [[スポンサー提供物一覧へ](../guideline/offerlist.md)]
 
 ----
-JPHACKS運営事務局
+JPHACKS実行委員会

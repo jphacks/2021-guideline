@@ -1,10 +1,21 @@
 site_name: JPHACKS2017 参加者向けガイドライン
 pages:
-  - ホーム:
+  - 全体概要:
       - '開催概要': 'index.md'
+      - '事前準備物': 'tools.md'
+#      - '開発テーマ': 'theme.md'
+      - '提出方法': 'how-to-submit.md'
+  - 審査・各賞について:
       - '審査基準': 'criteria.md'
+      - '審査方法': 'how-to-judge.md'
+      - 'JPHACKS Awards': 'jphacks-awards.md'
+#      - 'Sponsor Awards': 'sponsor-awards.md'
+  - 提供物関連:
+      - 'テクニカルパートナー提供物': 'technical-support.md'
+#      - 'スポンサー提供物': 'sponsor-products.md'
   - 参考資料:
       - 'Git/GitHubの使い方': 'how-to-use-git-github.md'
+      - 'リファレンス': 'reference.md'
   - 参加規約:
       - '参加規約': 'terms.md'
       - 'アンチハラスメントポリシー': 'anti-harassment.md'

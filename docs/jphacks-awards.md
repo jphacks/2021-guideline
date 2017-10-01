@@ -36,4 +36,4 @@
 [[目次へ戻る](../README.md)] [[各スポンサー賞へ](sponsor-prize.md)]
 
 ----
-JPHACKS運営事務局
+JPHACKS実行委員会
