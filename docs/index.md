@@ -102,7 +102,7 @@ JPHACKSでは、皆様が開発に集中し、より良いプロダクトを構�
 開発テーマや、各スポンサーAwardの獲得条件が公開されます。
 
 - [開発テーマ](theme.md)
-- [各スポンサー賞](sponsor-prize.md)
+- [各スポンサー賞](sponsor-awards.md)
 - [JPHACKS Aawrd一覧](jphacks-awards.md)
 
 を参照して、開発に備えましょう。
@@ -115,8 +115,7 @@ JPHACKSでは、皆様が開発に集中し、より良いプロダクトを構�
 
 - [開発ルール](rule.md)
 - [開発物提出方法](how-to-submit.md)
-- [各審査方法](how-to-judge.md)
-
+- [審査基準&審査方法](criteria.md)
 
 ## 4. 11月12日(日)：JPHACKS Award Day
 ### 選出チームよるピッチと展示によるInnovator認定、各賞の授与
