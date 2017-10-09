@@ -9,7 +9,7 @@
         
         <link rel="shortcut icon" href="../img/favicon.ico">
 
-	<title>Git/GitHubの使い方 - JPHACKS2017 参加者向けガイドライン</title>
+	<title>スポンサー提供物 - JPHACKS2017 参加者向けガイドライン</title>
 
         <link href="../css/bootstrap-3.0.3.min.css" rel="stylesheet">
         <link href="../css/font-awesome-4.0.3.css" rel="stylesheet">
@@ -96,7 +96,7 @@
             
             
             
-                <li class="dropdown">
+                <li class="dropdown active">
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown">提供物関連 <b class="caret"></b></a>
                     <ul class="dropdown-menu">
                     
@@ -104,8 +104,8 @@
                             <a href="../technical-support/">テクニカルパートナー提供物</a>
                         </li>
                     
-                        <li >
-                            <a href="../sponsor-products/">スポンサー提供物</a>
+                        <li class="active">
+                            <a href="./">スポンサー提供物</a>
                         </li>
                     
                     </ul>
@@ -113,12 +113,12 @@
             
             
             
-                <li class="dropdown active">
+                <li class="dropdown">
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown">参考資料 <b class="caret"></b></a>
                     <ul class="dropdown-menu">
                     
-                        <li class="active">
-                            <a href="./">Git/GitHubの使い方</a>
+                        <li >
+                            <a href="../how-to-use-git-github/">Git/GitHubの使い方</a>
                         </li>
                     
                         <li >
@@ -151,12 +151,12 @@
             <!-- Search, Navigation and Repo links -->
             <ul class="nav navbar-nav navbar-right">
                 <li >
-                    <a rel="next" href="../sponsor-products/">
+                    <a rel="next" href="../technical-support/">
                         <i class="fa fa-arrow-left"></i> Previous
                     </a>
                 </li>
                 <li >
-                    <a rel="prev" href="../reference/">
+                    <a rel="prev" href="../how-to-use-git-github/">
                         Next <i class="fa fa-arrow-right"></i>
                     </a>
                 </li>
@@ -170,62 +170,63 @@
             <div class="col-md-3"><div class="bs-sidebar hidden-print affix well" role="complementary">
     <ul class="nav bs-sidenav">
     
-        <li class="main active"><a href="#gitgithub">Git,GitHubの使い方</a></li>
-        
-            <li><a href="#1-git">1, Git</a></li>
-        
-            <li><a href="#2github">2,GitHub</a></li>
-        
-            <li><a href="#_2">その他、参考になるサイトのご紹介</a></li>
+        <li class="main active"><a href="#_1">スポンサー提供物</a></li>
         
     
     </ul>
 </div></div>
             <div class="col-md-9" role="main">
 
-<h1 id="gitgithub">Git,GitHubの使い方</h1>
-<h2 id="1-git">1, Git</h2>
-<h3 id="git">Gitとは</h3>
-<blockquote>
-<p>git（ギット）は、プログラムのソースコードなどの変更履歴を記録・追跡するための分散型バージョン管理システムである。 Linuxカーネルのソースコード管理に用いるためにリーナス・トーバルズによって開発され、それ以降ほかの多くのプロジェクトで採用されている。  </p>
-</blockquote>
-<p><a href="https://ja.wikipedia.org/wiki/Git">参照(Wikipedia)</a></p>
-<p>Gitの最大の特徴は、"分散型"という名前の通り、ローカル環境に全ての変更履歴を含む完全なリポジトリの"複製"を作成できるという事。
-これまでのバージョン管理システムでは、サーバー上にある１つのリポジトリを、利用者が共同で使わなければなりませんでした。<br />
-このため、利用者が増えると変更内容がコンフリクト(衝突)したり、整合性を維持することが非常に難しいものでした。 
-Gitでは、ローカル環境にもコードの変更履歴をコミット(保存)することができるので、リモートのサーバーに常に接続する必要がありません。<br />
-このため、ネットワークに接続していなくても作業を行うことができます。</p>
-<h3 id="git_1">Gitを使ってみよう</h3>
-<p>-<a href="https://try.github.io/levels/1/challenges/1">Try Git!</a>にアクセスして、Gitの使い方を練習してみましょう。(全文英語）
-- 基本的なGitコマンドを学習(add,commit,push,branch,checkout,diff等)を.gitのインストールをしなくても学ぶことが出来ます。</p>
-<h3 id="_1">最低限知っていて欲しいコマンド</h3>
-<ul>
-<li>git clone</li>
-<li>git pull</li>
-<li>git branch</li>
-<li>git checkout</li>
-<li>git add</li>
-<li>git commit</li>
-<li>git push</li>
-</ul>
-<h2 id="2github">2,GitHub</h2>
-<h3 id="github">GitHubとは</h3>
-<p>GitHubとは、上記のGitの仕組みを利用して、世界中の人々が自分の作品(プログラムコードやデザインデータなど)を保存、公開することができるサービスです。<br />
-このGitHubではGitで管理されたソース・コードをGitHub上に無料でホスティングすることが出来たり、issue（タスク）の管理やコメントなどをGitHub上で管理することが出来ます。<br />
-有料サービスを利用すると、指定したユーザーからしかアクセスができないプライベートなレポジトリを作ったりすることができます。<br />
-また、学生の皆さんはこのプライベートリポジトリの作成を無料で行うことが出来ます。</p>
-<h3 id="git-it-electrongithub">Git-it-electronを使って、GitHubの使い方を覚えよう</h3>
-<ul>
-<li><a href="https://github.com/jlord/git-it-electron/releases">git-it-electron</a>にアクセスして、対象のOSの最新バージョンをインストールしてください。</li>
-<li>インストールが完了したら、Zipを解凍し、アプリケーションを開いてみましょう。</li>
-<li>PCのセキュリティ設定から、インストールしたアプリケーションの利用設定をする必要がある場合があります</li>
-<li>こちらは日本語にも対応しており、Gitコマンドだけではなく、GitHubアカウントの作成やGitHubの使い方もフォローしています。</li>
-</ul>
-<h2 id="_2">その他、参考になるサイトのご紹介</h2>
-<ul>
-<li><a href="http://www.backlog.jp/git-guide/">サルでもわかるGit入門</a></li>
-<li><a href="https://osdn.jp/magazine/09/03/16/0831212">Gitを使いこなすための20のコマンド</a></li>
-</ul></div>
+<h1 id="_1">スポンサー提供物</h1>
+<p>JPHACKSの企業が提供するAPI/デバイス、クラウドサービス一覧になります。</p>
+<table>
+<thead>
+<tr>
+<th align="left">提供会社</th>
+<th align="left">製品名</th>
+<th align="left">オンライン資料</th>
+<th align="left">問い合わせSlackチャンネル</th>
+<th align="left"></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">NTTコミュニケーションズ</td>
+<td align="left">WebRTCプラットフォーム「SkyWay」</td>
+<td align="left">- <a href="http://skyway.io">公式サイト</a><br>- <a href="http://nttcom.github.io/skyway/documentation.html">ドキュメント</a><br>- <a href="https://html5experts.jp/series/skyway-tutorial/">SkyWay入門連載記事</a></td>
+<td align="left">#support-skyway</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">NTTレゾナント</td>
+<td align="left">TBD</td>
+<td align="left">TBD</td>
+<td align="left">TBD</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">freee</td>
+<td align="left">クラウド会計ソフトfreee API</td>
+<td align="left">https://secure.freee.co.jp/developers/api/doc</td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">IBM</td>
+<td align="left">TBD</td>
+<td align="left">TBD</td>
+<td align="left">TBD</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">NEC</td>
+<td align="left">・高速画像認識API<br>・物音認識API</td>
+<td align="left">・<a href="https://www3.arche.blue/portal/">高速画像認識API</a><br>・<a href="https://www6.arche.blue/portal/">物音認識API</a></td>
+<td align="left">#support-nec</td>
+<td align="left"></td>
+</tr>
+</tbody>
+</table></div>
         </div>
 
 	<footer class="col-md-12">
