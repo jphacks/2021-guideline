@@ -40,7 +40,8 @@ The GitHub Team
 ```
 
 #### 1-2. チーム招待の承認
-![イメージ1](../assets/images/submit1.png)
+<img src="../assets/images/submit1.png" width="800px">
+
 招待のURLにアクセスすると、上記のようなJPHACKS実行委員会からの招待を確認できます。  
 "JOIN JPHACKS"のボタンをクリックして、チームの招待を承認してください。
 
@@ -49,7 +50,8 @@ The GitHub Team
 #### 2-1. チームIDの確認
 承認して、JPHACKSの組織に所属したら、[チームページ](https://github.com/orgs/jphacks/teams)にアクセスしてください。
 以下のように所属しているチームを閲覧することが出来ます。
-![イメージ8](../assets/images/submit8.png)
+
+<img src="../assets/images/submit8.png" width="800px">
 
 ```
 会場ID_年度IDチームID
@@ -76,11 +78,11 @@ TK_1701
 
 自身のチームを確認できたら、そのページからチームIDをクリックしてください。
 以下のチームの詳細ページが表示されます。
-![イメージ2](../assets/images/submit2.png)
+<img src="../assets/images/submit2.png" width="800px">
 
 表示されたら、**Repository**をクリックしてください。
 
-![イメージ3](../assets/images/submit3.png)
+<img src="../assets/images/submit3.png" width="800px">
 
 表示されたリポジトリが今回皆様にご利用いただくリポジトリとなります。
 
@@ -94,7 +96,7 @@ TK_1701
 
 以下のような画面が表示されれば問題ございません。
 
-![イメージ4](../assets/images/submit4.png)
+<img src="../assets/images/submit4.png" width="800px">
 
 ## <a name="section3">3. 最終的に開発したプロダクトの登録・README.mdの記入</a>
 - Hack Dayの最終提出用のプロダクト概要として、README.mdの記入をフォーマットに合わせて更新してください。
@@ -113,5 +115,5 @@ TK_1701
 ## GitHubについて
 - チームメンバーとGitHubを使おう
   * チームのメンバーとGitHubを活用して共同で開発を進める場合は。リポジトリの設定（リポジトリページ > settings > Collaborators & teams > Collabrater）にて、開発メンバーを追加して開発することを推奨します。
-* GitHub、Gitによるプロダクトのバージョン管理がわからないチームは、事前に[Git,GitHubの使い方](../documents/how-to-use-git-github.md)などを参照し、使い方を習得することを推奨します。
+* GitHub、Gitによるプロダクトのバージョン管理がわからないチームは、事前に[Git,GitHubの使い方](documents/how-to-use-git-github.md)などを参照し、使い方を習得することを推奨します。
   * 運営側でもGitHubの使い方については、Slackのチャンネル上でフォローアップをする予定です。
