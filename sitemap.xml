@@ -16,6 +16,12 @@
     </url>
         
     <url>
+     <loc>/rule/</loc>
+     <lastmod>2018-09-09</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
      <loc>/how-to-submit/</loc>
      <lastmod>2018-09-09</lastmod>
      <changefreq>daily</changefreq>
