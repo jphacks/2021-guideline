@@ -12,7 +12,7 @@ JPHACKS(ジャパンハックス)は、学生を対象にした日本最大規�
 |---|---|
 |開催日程|2018年10月20日(土)・10月21日(日)|
 |開催時間|20日(土)09:00〜20:00<br>21日(日)09:00〜19:00|
-|開催場所|・札幌会場：[北海道大学フード&メディカルイノベーション国際拠点](http://www.eng.tohoku.ac.jp/map/?menu=campus&area=d&build=18) <br>・仙台会場：[東北大学　青葉山東キャンパス　南講義棟103講義室](http://www.eng.tohoku.ac.jp/map/?menu=campus&area=d&build=18) <br>・名古屋会場：[※名城大学 ナゴヤドーム前キャンパス](https://www.meijo-u.ac.jp/sp/90th/campus/nagoyadome/introduce_campus/)<br>・神戸会場：[デザイン・クリエイティブセンター神戸（KIITO）](http://kiito.jp/access/)|
+|開催場所|・札幌会場：[北海道大学フード&メディカルイノベーション国際拠点](http://www.eng.tohoku.ac.jp/map/?menu=campus&area=d&build=18) <br>・仙台会場：[東北大学　青葉山東キャンパス　南講義棟103講義室](http://www.eng.tohoku.ac.jp/map/?menu=campus&area=d&build=18) <br>・名古屋会場：[名古屋工業大学　御器所キャンパス NITechホール](https://www.nitech.ac.jp/access/)<br>・神戸会場：[デザイン・クリエイティブセンター神戸（KIITO）](http://kiito.jp/access/)|
 |参加人数|各会場50名程度|
 |参加資格|・全国の大学生・大学院生・専門生・高専生の学生（学年不問）<br>・満18歳以上であること|
 |参加費用|参加費無料　※各Hack Day会場までの交通費及び宿泊費は自己負担|
