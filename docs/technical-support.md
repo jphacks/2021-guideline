@@ -35,7 +35,6 @@ AWS EducateはAmazon　のグローバルイニシアティブで、クラウド
 ## 4. GitHubプライベートリポジトリ
 GitHubが有償で提供するPrivateリポジトリの利用（各チーム1つまで）
 
-### 内容
 - 対象者 :JPHACKS Hack Day参加全チーム（チーム）
 - 提供期間 : HackDay中〜2019年1月13日迄
 - 金額 : $28 相当
