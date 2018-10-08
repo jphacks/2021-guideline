@@ -16,6 +16,12 @@
     </url>
         
     <url>
+     <loc>/theme/</loc>
+     <lastmod>2018-10-08</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
      <loc>/suponsor-theme/</loc>
      <lastmod>2018-10-08</lastmod>
      <changefreq>daily</changefreq>
@@ -36,6 +42,18 @@
     
 
     
+        
+    <url>
+     <loc>/criteria/</loc>
+     <lastmod>2018-10-08</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/jphacks-awards/</loc>
+     <lastmod>2018-10-08</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
         
     <url>
      <loc>/sponsor-awards/</loc>
