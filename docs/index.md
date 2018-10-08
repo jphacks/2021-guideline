@@ -90,7 +90,7 @@ JPHACKSでは、皆様が開発に集中し、より良いプロダクトを構�
 
 - [事前準備物](tools.md)
 - [テクニカルパートナーからの提供物](technical-support.md)
-- [スポンサー企業からの提供物(未公開)]()
+- [スポンサー企業からの提供物](sponsor-products.md)
 
 テクニカルパートナーからの技術支援や、スポンサーからの提供物を活用して、Hack Dayに備えましょう。
 
@@ -101,7 +101,7 @@ JPHACKSでは、皆様が開発に集中し、より良いプロダクトを構�
 - [オリジナルスポンサーテーマ](suponsor-theme.md)
 
 - [各スポンサー賞](suponsor-awards.md)
-- [JPHACKS Aawrd一覧(未公開)]()
+- [JPHACKS Aawrd一覧](jphacks-awards.md)
 
 を参照して、開発に備えましょう。
 
@@ -113,7 +113,7 @@ JPHACKSでは、皆様が開発に集中し、より良いプロダクトを構�
 
 - [開発ルール](rule.md)
 - [開発物提出方法](how-to-submit.md)
-- [審査基準&審査方法(未公開)]()
+- [審査基準&審査方法](criteria.md)
 
 ## 4. 11月18日(日)：JPHACKS Award Day
 ### 選出チームよるピッチと展示によるInnovator認定、各賞の授与
