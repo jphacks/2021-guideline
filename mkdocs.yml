@@ -1,5 +1,5 @@
 site_name: JPHACKS2018 参加者向けガイドライン
-pages:
+nav:
   - 全体概要:
       - '開催概要': 'index.md'
       - '事前準備物': 'tools.md'
@@ -20,4 +20,6 @@ pages:
   - 参加規約:
       - '参加規約': 'terms.md'
       - 'アンチハラスメントポリシー': 'anti-harassment.md'
-theme: bootstrap
+theme:
+    name: cinder
+    show_sidebar: false
