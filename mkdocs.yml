@@ -13,6 +13,7 @@ nav:
       - 'スポンサー Awards': 'sponsor-awards.md'
   - 提供物関連:
       - 'テクニカルパートナー提供物': 'technical-support.md'
+      - '提供デバイスリスト' : 'devices.md'
       - 'スポンサー提供物': 'sponsor-products.md'
   - 参考資料:
       - 'Git/GitHubの使い方': 'how-to-use-git-github.md'
