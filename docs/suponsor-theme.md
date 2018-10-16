@@ -13,12 +13,12 @@
 ・まだ世の中にないアイディアであること
 ・問題を解決していること
 ・しっかり形になっていること
-・ビジネスとしての実現可能性が高いこと	
-							
+・ビジネスとしての実現可能性が高いこと
+
 
 ## "人と人のコミュニケーションを活発にし、人とモノ・情報・サービスとの接点を豊かにして、多くの人々から愛されるサービスを実装せよ。" by LINE
 
-<iframe src="https://drive.google.com/file/d/1QAtI8FkKQS76KkuOsJ9fhmZTyNoWJvhS/preview" width="640" height="400"></iframe>
+<iframe src="https://drive.google.com/file/d/1EpwfYQf26v_89LodPlkEZdHBYSoCwMUN/preview" width="640" height="400"></iframe>
 
 「LINE」上でアカウント（chatbot）を開発できる「Messaging API」、およびAIアシスタント「Clova」のスキルを開発するための環境「Clova Extensions Kit」を活用し、「LINE」と「Clova」をベースに様々な技術要素やアイデアが組み込み、人と人のコミュニケーションを活発にしたり、人とモノ・情報・サービスとの接点を豊かにして、多くの人々から愛されるサービス。
 
