@@ -56,7 +56,7 @@
 |Short Description|The Current Sensor 2Go is an evaluation board equipped with a current sensor for measurements of the current flow in circuits: measure the current flow in your projects and extract, e.g., the power consumption of your application.|
 |Extended Link|[https://www.infineon.com/cms/en/product/promopages/sensors-2go/#current-sensor-2go](https://www.infineon.com/cms/en/product/promopages/sensors-2go/#current-sensor-2go)|
 |How to link|Infineon’s Current Sensor 2Go|
-|Comments|Software for Arduino available|
+|Comments|Software for Arduino available on GitHub:[https://github.com/Infineon/TLI4970-D050T4-Current-Sensor](https://github.com/Infineon/TLI4970-D050T4-Current-Sensor)|
 
 |||
 |---|---|
@@ -70,12 +70,11 @@
 |||
 |---|---|
 |Position|7|
-|Name|Angle Sensor MS2GO|
-|Short Description||
-|Extended Link||
-|How to link||
-|Comments||
-
+|Name|TLE5012B Angle Sensor MS2GO|
+|Short Description|The TLE5012B is a 360° angle sensor that detects the orientation of a magnetic field.|
+|Extended Link|[https://www.infineon.com/cms/en/product/sensor/magnetic-position-sensor/angle-sensor/tle5012b-e1000/](https://www.infineon.com/cms/en/product/sensor/magnetic-position-sensor/angle-sensor/tle5012b-e1000/)|
+|How to link|Infineon's Magnetic Angle Sensor TLE5012|
+|Comments|Software for Arduino available on GitHub:[https://github.com/Infineon/TLE5012-Magnetic-Angle-Sensor](https://github.com/Infineon/TLE5012-Magnetic-Angle-Sensor)|
 
 ### Actuators and more
 
@@ -86,7 +85,7 @@
 |Short Description|The DC motor shield is capable to drive up to 6 small DC motors in parallel mode or up to 11 DC motors in cascaded mode.|
 |Extended Link|[https://www.infineon.com/cms/en/product/evaluation-boards/tle94112el_shield/](https://www.infineon.com/cms/en/product/evaluation-boards/tle94112el_shield/)|
 |How to link|Infineon's DC Motor Shield with TLE94112EL|
-|Comments|Software for Arduino available|
+|Comments|"Software for Arduino available on GitHub:[https://github.com/Infineon/DC-Motor-Control-TLE94112EL](https://github.com/Infineon/DC-Motor-Control-TLE94112EL)|
 
 |||
 |---|---|
@@ -95,13 +94,13 @@
 |Short Description|The RGB LED lighting shield is designed to be easily configurable and combinable for different LED light engines and lamps, for fast prototyping and evaluation of LED lighting applications.|
 |Extended Link|[https://www.infineon.com/cms/en/product/evaluation-boards/kit_led_xmc1202_as_01/](https://www.infineon.com/cms/en/product/evaluation-boards/kit_led_xmc1202_as_01/)|
 |How to link|Infineon's RGB LED Lighting Shield|
-|Comments|Software for Arduino available|
+|Comments|Software for Arduino available on GitHub: [https://github.com/Infineon/RGB-LED-Lighting-Shield-XMC1202](https://github.com/Infineon/RGB-LED-Lighting-Shield-XMC1202)|
 
 |||
 |---|---|
 |Position|10|
 |Name|OPTIGA TM Trust X Shield2Go|
-|Short Description||
+|Short Description|The OPTIGA™ Trust X is a turnkey security solution for industrial automation systems, smart homes, consumer devices or medical devices.|
 |Extended Link|[https://www.infineon.com/cms/en/tools/landing/infineon-for-makers/#shields2go-myiot](https://www.infineon.com/cms/en/tools/landing/infineon-for-makers/#shields2go-myiot)|
-|How to link||
-|Comments||
+|How to link|OPTIGA™ Trust X|
+|Comments|Software for Arduino available on GitHub: [https://github.com/Infineon/arduino-optiga-trust-x](https://github.com/Infineon/arduino-optiga-trust-x)|
