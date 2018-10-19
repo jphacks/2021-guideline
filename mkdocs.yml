@@ -18,6 +18,7 @@ nav:
   - 参考資料:
       - 'Git/GitHubの使い方': 'how-to-use-git-github.md'
       - 'リファレンス': 'reference.md'
+      - 'LINE提供物補足資料' : 'line-docs.md'
   - 参加規約:
       - '参加規約': 'terms.md'
       - 'アンチハラスメントポリシー': 'anti-harassment.md'
