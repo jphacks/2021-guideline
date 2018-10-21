@@ -100,7 +100,7 @@ JPHACKSでは、皆様が開発に集中し、より良いプロダクトを構�
 - [開発テーマ](theme.md)
 - [オリジナルスポンサーテーマ](suponsor-theme.md)
 
-- [各スポンサー賞](suponsor-awards.md)
+- [各スポンサー賞](sponsor-awards.md)
 - [JPHACKS Aawrd一覧](jphacks-awards.md)
 
 を参照して、開発に備えましょう。
