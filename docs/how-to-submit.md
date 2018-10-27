@@ -118,5 +118,5 @@ HK_1801
 ## GitHubについて
 - チームメンバーとGitHubを使おう
   * チームのメンバーとGitHubを活用して共同で開発を進める場合は。リポジトリの設定（リポジトリページ > settings > Collaborators & teams > Collabrater）にて、開発メンバーを追加して開発することを推奨します。
-* GitHub、Gitによるプロダクトのバージョン管理がわからないチームは、事前に[Git,GitHubの使い方](documents/how-to-use-git-github.md)などを参照し、使い方を習得することを推奨します。
+* GitHub、Gitによるプロダクトのバージョン管理がわからないチームは、事前に[Git,GitHubの使い方](how-to-use-git-github.md)などを参照し、使い方を習得することを推奨します。
   * 運営側でもGitHubの使い方については、Slackのチャンネル上でフォローアップをする予定です。
