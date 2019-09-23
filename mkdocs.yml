@@ -23,5 +23,5 @@ nav:
       - '参加規約': 'terms.md'
       - 'アンチハラスメントポリシー': 'anti-harassment.md'
 theme:
-    name: bootstrap4
+    name: cinder
     show_sidebar: false
