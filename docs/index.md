@@ -148,6 +148,7 @@ JPHACKSでは、**アンチハラスメントポリシー**　を強く意識し
 
 ## お問い合わせ方法
 お問い合わせは以下の連絡先までよろしくお願い致します。
+
 - お問い合わせ先：JPHACKS2019 運営事務局
 - メール:[support@jphacks.com](mailto:support@jphacks.com)
 
