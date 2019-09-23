@@ -18,9 +18,9 @@ JPHACKSでは参加者の方々がより開発に時間を費やし、質の高�
 
 #### 1-1. 招待メールの確認
 申請したメールアドレスに、以下の招待メールが届いていることを確認し、本文中段のリンクをクリックし、招待の確認をします。  
-文中の `akihiro nitta` や `maximum80` は GitHub で登録されている氏名・ユーザ名になります。
+文中の `shota nitta` や `maximum80` は GitHub で登録されている氏名・ユーザ名になります。
 ```
-Hi akihiro nitta,
+Hi shota nitta,
 
 JPHACKSサポートアカウント has invited you to join the JPHACKS organization on GitHub. Head over to https://github.com/jphacks to check out JPHACKS's profile.
 
@@ -56,6 +56,7 @@ The GitHub Team
 ```
 会場ID_年度IDチームID
 ```
+
 が記載された、チームが表示されています。
 表示されているIDがみなさんの今回のチームIDになりますので、ご確認ください。
 
@@ -67,14 +68,16 @@ The GitHub Team
 * 神戸：KB
 * 福岡：FK
 * 沖縄：ON
+
 #### 年度ID
-* 2018年度開催は"18"が頭に入ります。
+* 2019年度開催は"19"が頭に入ります。
+
 #### チームID：0
 - 1~35まで
 
 * 例)北海道会場の01番のチーム
 ```
-HK_1801
+HK_1901
 ```
 
 #### 2-2. チームリポジトリの確認
@@ -83,7 +86,7 @@ HK_1801
 以下のチームの詳細ページが表示されます。
 <img src="../assets/images/submit2.png" width="800px">
 
-表示されたら、**Repository**をクリックしてください。
+表示されたら、 **Repository** をクリックしてください。
 
 <img src="../assets/images/submit3.png" width="800px">
 
@@ -106,13 +109,13 @@ HK_1801
 - README.mdには、必ず「デモ動画のリンク」及び「作品情報」が含まれているようにしてください。
 
 ## <a name="section4">4. 提出フォームによるプロダクト情報の最終提出</a>
-* [プロダクト提出フォーム](https://goo.gl/forms/UAZAoI8L5OhPSKj83)にアクセスし、必要事項を記入します。
+* [プロダクト提出フォーム](https://forms.gle/Rk6d4iua7sR8hW4P6)にアクセスし、必要事項を記入します。
 * チーム決定時に配布されている、会場ID・チームIDを入力してください。
 * GitHubのプロジェクトURLを記入してください。
   * GitHub以外のURLは受け付けておりませんので、ご注意ください。
 
 ## 注意事項
-* 一度プロダクト情報を提出された場合、再びの提出はできませんのでご注意下さい。
+* 一度プロダクト情報を提出された場合、再提出はできませんのでご注意下さい。
 * Hack Dayのプロダクト提出終了時刻までに、不慮の事態を除き提出が遅れた場合は、提出が認められない場合がございます。予めご了承下さい。
 
 ## GitHubについて

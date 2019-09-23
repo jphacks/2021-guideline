@@ -31,17 +31,7 @@ JPHACKS Awardにてデモ、展示会を実施したチームの中から、組�
 | 選出条件 | - JPHACKS Award Dayにてピッチをすること<br> - JPHACKS Award Dayにて、展示会を実施すること<br> |
 | 賞の内容 | -Award Dayでの賞状授与(個人に1枚)<br> - 公式HPへのInnovatorとしての紹介 |
 
-## 4. JPHACKS 審査委員特別賞
-JPHACKS Awardにてデモ、展示会を実施したチームの中から、組織委員会及び審査委員会によって、何かしらの観点で突出している点を評価されたチームがJPHACKS 審査委員特別賞として表彰されます。
-
-|JPHAKS Best 審査委員特別賞 | 内容 |
-|:-----------|:------------|
-| 選出チーム | 当日決定 |
-| 選出方法 | JPHACKS Award Dayのピッチ・展示会終了後に、組織委員会及び審査委員会によって審査会を実施して決定。|
-| 選出条件 | - JPHACKS Award Dayにてピッチをすること<br> - JPHACKS Award Dayにて、展示会を実施すること|
-| 賞の内容 | -Award Dayでの賞状授与(チームに1枚)<br> - 公式HPへの掲載<br> - 継続開発支援金 10万円 |
-
-## 5. JPHACKS Best Audience Award
+## 4. JPHACKS Best Audience Award
 JPHACKS Awardにてデモ、展示会を実施したチームの中から、オーディエンス（観覧・スポンサー・組織委員会・審査委員会）の投票によって、最も票を獲得したチームがJPHACKS Best Audienec Award として表彰されます。
 
 |JPHAKS Best Audienece Award | 内容 |
@@ -49,14 +39,25 @@ JPHACKS Awardにてデモ、展示会を実施したチームの中から、オ�
 | 選出チーム | 1チーム |
 | 選出方法 | JPHACKS Award Dayのピッチ・展示会終了後に、実施したオーディエンス審査にて、最も多くの票を獲得したチーム|
 | 選出条件 | - JPHACKS Award Dayにてピッチをすること<br> - JPHACKS Award Dayにて、展示会を実施すること|
-| 賞の内容 | -Award Dayでの賞状授与(チームに1枚)<br> - トロフィーの贈呈 <br> - 公式HPへの掲載<br> - 継続開発支援金 10万円 |
+| 賞の内容 | -Award Dayでの賞状授与(チームに1枚)<br> - 公式HPへの掲載<br> - 継続開発支援金 10万円 |
 
-## 6. JPHACKS Best Hack Award
+## 5. JPHACKS Best Hack Award
 JPHACKS Awardにてデモ、展示会を実施したチームの中から、組織委員会及び審査委員会によって、最も優れていると判断されたチームがJPHACKS Best Award として表彰されます。
 
 |JPHAKS Best Hack Award | 内容 |
 |:-----------|:------------|
-| 選出チーム | 1チーム |
+| 選出チーム | 最大2チーム <br> ハードウェア部門・ソフトウェア部門|
 | 選出方法 | JPHACKS Award Dayのピッチ・展示会終了後に、組織委員会及び審査委員会によって審査会を実施して決定。|
 | 選出条件 | - JPHACKS Award Dayにてピッチをすること<br> - JPHACKS Award Dayにて、展示会を実施すること|
-| 賞の内容 | -Award Dayでの賞状授与(チームに1枚)<br> - トロフィーの贈呈 <br> - 公式HPへの掲載<br> - 継続開発支援金 30万円 |
+| 賞の内容 | -Award Dayでの賞状授与(チームに1枚)<br> - 公式HPへの掲載<br> - 継続開発支援金 30万円 |
+
+
+## 6. JPHACKS 審査委員特別賞
+JPHACKS Awardにてデモ、展示会を実施したチームの中から、組織委員会及び審査委員会によって、何かしらの観点で突出している点を評価されたチームがJPHACKS 審査委員特別賞として表彰される場合がございます。
+
+|JPHAKS Best 審査委員特別賞 | 内容 |
+|:-----------|:------------|
+| 選出チーム | 当日決定 |
+| 選出方法 | JPHACKS Award Dayのピッチ・展示会終了後に、組織委員会及び審査委員会によって審査会を実施して決定。|
+| 選出条件 | - JPHACKS Award Dayにてピッチをすること<br> - JPHACKS Award Dayにて、展示会を実施すること|
+| 賞の内容 | -Award Dayでの賞状授与(チームに1枚)<br> - 公式HPへの掲載 |
