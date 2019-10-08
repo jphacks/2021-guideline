@@ -4,7 +4,7 @@ nav:
       - '開催概要': 'index.md'
       - '事前準備物': 'tools.md'
 ##      - '開発テーマ': 'theme.md'
-      - 'オリジナルスポンサーテーマ': 'suponsor-theme.md'
+      - 'オリジナルスポンサーテーマ': 'sponsor-theme.md'
       - '開発ルール': 'rule.md'
       - '提出方法': 'how-to-submit.md'
   - 審査・各賞について:
