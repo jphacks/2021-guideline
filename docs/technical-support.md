@@ -39,6 +39,7 @@ AWS EducateはAmazon　のグローバルイニシアティブで、クラウド
 - 対象期間 : 2019年10月1日（随時）〜10月31日(2ヶ月間)
 
 - [申請方法](aws-educate.md)
+- [ドキュメント](http://ampilfy-chalice-handson-201908.s3-website-ap-northeast-1.amazonaws.com/201908/)
 
 ## 5. GitHubプライベートリポジトリ
 GitHubが有償で提供するPrivateリポジトリの利用（各チーム1つまで）
