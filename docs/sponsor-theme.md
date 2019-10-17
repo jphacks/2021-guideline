@@ -7,6 +7,8 @@
 各交通機関の情報の連携や代替交通手段の提供、保険による補償など様々な対応方法があるが、より顧客体験価値を向上させるようなサービスを、”デジタル”あるいは”スマート”な視点から考えてください。
 
 ## バンダイナムコ研究所
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Sbk5TLUG5iw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### テクノロジーｘクリエイティビティでミライのアソビを考えよう！
 
 バンダイナムコ研究所は、飽くなきテクノロジーの探求と発想で革新的なエンターテインメントを生み出すことをミッションとして、世界中に笑顔を届けるべく日々活動しています。皆さんも是非、研究所の未来型アイドル・ミライ小町ちゃんと一緒に、まだ世の中にないアソビ、エンターテインメントを考えてみてください！
