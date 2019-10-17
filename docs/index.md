@@ -103,7 +103,7 @@ JPHACKSでは、皆様が開発に集中し、より良いプロダクトを構�
 - [JPHACKS Aawrd一覧](jphacks-awards.md)
 
 #### スポンサーテーマ・各スポンサー賞一覧
-- [オリジナルスポンサーテーマ](suponsor-theme.md)
+- [オリジナルスポンサーテーマ](sponsor-theme.md)
 - [各スポンサー賞](sponsor-awards.md)
 
 を参照して、開発に備えましょう。
