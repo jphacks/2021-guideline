@@ -8,35 +8,33 @@
     
     
     
-    <link rel="../img/favicon.ico">
+    <link rel="shortcut icon" href="../img/favicon.ico">
 
     
-    <title>事前準備物 - JPHACKS2019 参加者向けガイドライン</title>
+    <title>事前準備物 - JPHACKS2020 参加者向けガイドライン</title>
     
 
-    <link rel="stylesheet" href="//use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.12.0/css/all.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.12.0/css/v4-shims.css">
     <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/hack-font@3.3.0/build/web/hack.min.css">
-    <link href='//fonts.googleapis.com/css?family=PT+Sans:400,400italic,700,700italic&subset=latin-ext,latin' rel='stylesheet' type='text/css'>
+    <link href='//rsms.me/inter/inter.css' rel='stylesheet' type='text/css'>
     <link href='//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,400,300,600,700&subset=latin-ext,latin' rel='stylesheet' type='text/css'>
     <link href="../css/bootstrap-custom.min.css" rel="stylesheet">
     <link href="../css/base.min.css" rel="stylesheet">
     <link href="../css/cinder.min.css" rel="stylesheet">
-    <link href="../css/highlight.min.css" rel="stylesheet">
+
+    
+        
+        <link rel="stylesheet" href="//cdn.jsdelivr.net/gh/highlightjs/cdn-release@9.18.0/build/styles/github.min.css">
+        
+    
+    <link href="../css/custom.css" rel="stylesheet">
 
     <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
             <script src="https://cdn.jsdelivr.net/npm/html5shiv@3.7.3/dist/html5shiv.min.js"></script>
             <script src="https://cdn.jsdelivr.net/npm/respond.js@1.4.2/dest/respond.min.js"></script>
         <![endif]-->
-
-    <script src="//ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js"></script>
-    <script>
-    WebFont.load({
-        google: {
-            families: ['Open Sans', 'PT Sans']
-        }
-    });
-    </script>
 
     
 
@@ -61,7 +59,7 @@
 
             <!-- Main title -->
 
-            <a class="navbar-brand" href="..">JPHACKS2019 参加者向けガイドライン</a>
+            <a class="navbar-brand" href="..">JPHACKS2020 参加者向けガイドライン</a>
         </div>
 
         <!-- Expanded navigation -->
@@ -83,18 +81,6 @@
                             
 <li class="active">
     <a href="./">事前準備物</a>
-</li>
-
-                        
-                            
-<li >
-    <a href="../theme/">開発テーマ</a>
-</li>
-
-                        
-                            
-<li >
-    <a href="../sponsor-theme/">オリジナルスポンサーテーマ</a>
 </li>
 
                         
@@ -128,39 +114,6 @@
                             
 <li >
     <a href="../jphacks-awards/">JPHACKS Awards</a>
-</li>
-
-                        
-                            
-<li >
-    <a href="../sponsor-awards/">スポンサー Awards</a>
-</li>
-
-                        
-                        </ul>
-                    </li>
-                
-                
-                
-                    <li class="dropdown">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">提供物関連 <b class="caret"></b></a>
-                        <ul class="dropdown-menu">
-                        
-                            
-<li >
-    <a href="../technical-support/">テクニカルパートナー提供物</a>
-</li>
-
-                        
-                            
-<li >
-    <a href="../devices/">提供デバイスリスト</a>
-</li>
-
-                        
-                            
-<li >
-    <a href="../sponsor-products/">スポンサー提供物</a>
 </li>
 
                         
@@ -200,12 +153,6 @@
 </li>
 
                         
-                            
-<li >
-    <a href="../anti-harassment/">アンチハラスメントポリシー</a>
-</li>
-
-                        
                         </ul>
                     </li>
                 
@@ -224,7 +171,7 @@
                         </a>
                     </li>
                     <li >
-                        <a rel="next" href="../theme/">
+                        <a rel="next" href="../rule/">
                             Next <i class="fas fa-arrow-right"></i>
                         </a>
                     </li>
@@ -250,6 +197,11 @@
                 <li class="third-level"><a href="#_6">利用用途</a></li>
                 <li class="third-level"><a href="#_7">導入方法</a></li>
                 <li class="third-level"><a href="#github">GitHubの使い方</a></li>
+            <li class="second-level"><a href="#3-zoom">3. Zoom</a></li>
+                
+                <li class="third-level"><a href="#_8">目的</a></li>
+                <li class="third-level"><a href="#_9">利用用途</a></li>
+                <li class="third-level"><a href="#_10">導入方法</a></li>
     </ul>
 </div></div>
         <div class="col-md-9" role="main">
@@ -260,14 +212,22 @@
 <p>JPHACKSでは、全国7拠点、合計300名を超えるハッカソンの参加者の方々に対し、公平に情報を配信する事を目的として、Slack（チャットサービス）を導入しております。</p>
 <h3 id="_3">利用用途</h3>
 <ul>
-<li>チームグループの作成
-個人参加の場合であった際も、事前にチームとコミュニケーションを取ることが出来ます。当日までのやりとりにご活用ください。</li>
-<li>運営からのご案内
-全体への案内用のチャンネルを作成し、皆様への必要情報を配信していきます。</li>
-<li>質疑応答
-質疑応答用のチャンネルを作成し、参加者の皆様から、ハッカソン内での不明点や、プロダクトの提出についてなど、お問い合わせに対応いたします。</li>
-<li>API・外部ツールのお問い合わせ
-API等、外部ツールに関する問い合わせ版を用意し、各プロダクトを提供してくださっている方に利用方法についてなどの質疑が出来るように致します。</li>
+<li>チームグループの作成<ul>
+<li>個人参加の場合であった際も、事前にチームとコミュニケーションを取ることが出来ます。当日までのやりとりにご活用ください。</li>
+</ul>
+</li>
+<li>運営からのご案内<ul>
+<li>全体への案内用のチャンネルを作成し、皆様への必要情報を配信していきます。</li>
+</ul>
+</li>
+<li>質疑応答<ul>
+<li>質疑応答用のチャンネルを作成し、参加者の皆様から、ハッカソン内での不明点や、プロダクトの提出についてなど、お問い合わせに対応いたします。</li>
+</ul>
+</li>
+<li>API・外部ツールのお問い合わせ<ul>
+<li>API等、外部ツールに関する問い合わせ版を用意し、各プロダクトを提供してくださっている方に利用方法についてなどの質疑が出来るように致します。</li>
+</ul>
+</li>
 </ul>
 <h3 id="_4">導入方法</h3>
 <ol>
@@ -288,17 +248,23 @@ API等、外部ツールに関する問い合わせ版を用意し、各プロ�
 <h3 id="_6">利用用途</h3>
 <ul>
 <li>
-<p>プロダクトの回収（開発に集中できる環境の追求）<br />
-皆様がハッカソンで開発をしたプロダクト情報を速やかにで回収をし、一次審査の実施をスムーズに行うために導入を致します。<br />
-また、サンプルのリポジトリを活用出来るようにしており、直ぐにプロダクト情報を提出することが出来ます。皆様がプロダクトの概要を説明するための資料作りの時間を省き、より開発に集中するための施策として活用しております。</p>
+<p>プロダクトの回収（開発に集中できる環境の追求）  </p>
+<ul>
+<li>皆様がハッカソンで開発をしたプロダクト情報を速やかにで回収をし、一次審査の実施をスムーズに行うために導入を致します。  </li>
+<li>また、サンプルのリポジトリを活用出来るようにしており、直ぐにプロダクト情報を提出することが出来ます。皆様がプロダクトの概要を説明するための資料作りの時間を省き、より開発に集中するための施策として活用しております。</li>
+</ul>
 </li>
 <li>
-<p>オンライン一次審査への活用<br />
-Award Dayの進出を決定するオンライン一次審査の際に、審査員に提出する情報として、ご活用させていただきます。  </p>
+<p>オンライン一次審査への活用</p>
+<ul>
+<li>Award Dayの進出を決定するオンライン一次審査の際に、審査員に提出する情報として、ご活用させていただきます。  </li>
+</ul>
 </li>
 <li>
-<p>スポンサーAward選出への活用<br />
-今回協賛しているスポンサーが、スポンサーAwardを決定する際の情報として、GitHubのリポジトリ情報を提供いたします。</p>
+<p>スポンサーAward選出への活用  </p>
+<ul>
+<li>今回協賛しているスポンサーが、スポンサーAwardを決定する際の情報として、GitHubのリポジトリ情報を提供いたします。</li>
+</ul>
 </li>
 </ul>
 <h3 id="_7">導入方法</h3>
@@ -330,7 +296,33 @@ Award Dayの進出を決定するオンライン一次審査の際に、審査�
 <ul>
 <li>JPHACKSでは、作品のソース・コードの提出を必須としています。</li>
 <li>Git、やGitHubをこれまで使ったことのない方は、<a href="../how-to-use-git-github/">Git,GitHubの使い方</a>で事前に使い方を勉強しましょう。</li>
-</ul></div>
+</ul>
+<h2 id="3-zoom">3. <a href="https://zoom.us/jp-jp/meetings.html">Zoom</a></h2>
+<h3 id="_8">目的</h3>
+<p>JPHACKSでは、オンライン開催を実現するにあたり、ビデオミーティングサービスであるZoomを本格的に活用した運用を実施します。</p>
+<h3 id="_9">利用用途</h3>
+<ul>
+<li>各イベントでの全体ガイダンスの実施<ul>
+<li>Hacking SprintやAward Dayを開催するにあたり、メインのイベント進行として活用します。</li>
+</ul>
+</li>
+<li>チーム単位での開発専用Meeting部屋の作成<ul>
+<li>Hacking Sprint当日に、各チームごとのMeeting部屋を作成することにより、オンラインでのチーム開発をスムーズに行うことができます。</li>
+</ul>
+</li>
+</ul>
+<h3 id="_10">導入方法</h3>
+<ol>
+<li>アカウントの作成</li>
+<li><a href="https://zoom.us/jp-jp/meetings.html">Zoomのトップページ</a> から、アカウントを作成してください。</li>
+<li>
+<p>既に存在するアカウントを当日に活用していただく形でも問題ございません。</p>
+</li>
+<li>
+<p>各イベントMeetingへの参加</p>
+</li>
+<li>Slack内で共有される各種イベント用のZoom Meeting URLから、イベントにご参加ください。</li>
+</ol></div>
         
         
     </div>
@@ -339,15 +331,21 @@ Award Dayの進出を決定するオンライン一次審査の際に、審査�
         
         <hr>
         <p>
-        <small>Documentation built with <a href="http://www.mkdocs.org/">MkDocs</a>.</p></small>
+        <small>Documentation built with <a href="http://www.mkdocs.org/">MkDocs</a>.</small>
+        </p>
 
         
         
     </footer>
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
     <script src="../js/bootstrap-3.0.3.min.js"></script>
-    <script src="../js/highlight.pack.js"></script>
+
+    
+    <script src="//cdn.jsdelivr.net/gh/highlightjs/cdn-release@9.18.0/build/highlight.min.js"></script>
+        
     <script>hljs.initHighlightingOnLoad();</script>
+    
+
     <script>var base_url = ".."</script>
     
     <script src="../js/base.js"></script>
@@ -357,8 +355,11 @@ Award Dayの進出を決定するオンライン一次審査の際に、審査�
     <div class="modal-dialog modal-lg">
         <div class="modal-content">
             <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal">
+                    <span aria-hidden="true">&times;</span>
+                    <span class="sr-only">Close</span>
+                </button>
                 <h4 class="modal-title" id="searchModalLabel">Search</h4>
-                <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
             </div>
             <div class="modal-body">
                 <p>
