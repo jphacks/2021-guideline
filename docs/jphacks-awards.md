@@ -1,14 +1,14 @@
 # JPHACKS Awards
 JPHACKSに参加をすると、得ることが出来るAward(賞)について記載いたします。
 
-## 1. Best Hack Day Award
-JPHACKS Hack Dayに参加をしたチームから、各拠点1チームずつ選出されます。
+## 1. Best Hacking Sprint Award
+JPHACKS Hacking Sprintに参加をしたチームから、各エリア1チームずつ選出されます。
 
-|Best Hack Day Award | 内容 |
+|Best Hacking Sprint Award | 内容 |
 |:-----------|:------------|
-| 選出チーム | 各エリア 1チーム |
-| 選出方法 | 各エリアのHack Day最終日に実施されたDEMOをもとに、参加者及びスポンサーで構成されるオーディエンス投票に寄って、最も多くの票を獲得したチーム |
-| 選出条件 | - JPHACKS Hack Dayに参加をすること<br> - JPHACKS Hack Dayにて、最終DEMOを実施すること |
+| 選出チーム | 各ブロック 1チーム |
+| 選出方法 | 各ブロックごとに開催されるPitch Dayにて実施されたDEMOをもとに、参加者及びスポンサーで構成されるオーディエンス投票によって、最も多くの票を獲得したチーム |
+| 選出条件 | - JPHACKS Hacking Sprintに参加をすること<br> - JPHACKS Hacking Sprint にて、最終DEMOを実施すること |
 | 賞の内容 | -賞状授与(チーム1枚)<br>-Amazon商品券5,000円分<br> |
 
 ## 2. JPHACKS Fialist Award
@@ -18,8 +18,8 @@ JPHACKSに参加をしたチームの中から、審査委員会によってオ�
 |:-----------|:------------|
 | 選出チーム | 合計15チーム |
 | 選出方法 | JPHACKS Hack Day終了後に、審査委員会によってオンライン審査を実施。 |
-| 選出条件 | - JPHACKS Hack Dayに参加をすること<br> - JPHACKS Hack Dayにて、最終DEMOを実施すること<br> - [必要提出物](how-to-submit.md)が正しく提出されていること |
-| 賞の内容 | -Award Dayでの賞状授与(チーム1枚)<br>-Amazon商品券1万円分<br> |
+| 選出条件 | - JPHACKS Hacking Sprintに参加をすること<br> - JPHACKS Hacking Sprintにて、最終DEMOを実施すること<br> - [必要提出物](how-to-submit.md)が正しく提出されていること |
+| 賞の内容 | -Award Dayでの賞状授与(チーム1枚)<br>-Amazon商品券1万円分 |
 
 ## 3. JPHACKS Innovator認定
 JPHACKS Awardにてデモ、展示会を実施したチームの中から、組織委員会及び審査委員会によって、優れていると判断されたプロダクト及びチームがJPHACKS Innovator認定として表彰されます。
@@ -39,17 +39,17 @@ JPHACKS Awardにてデモ、展示会を実施したチームの中から、オ�
 | 選出チーム | 1チーム |
 | 選出方法 | JPHACKS Award Dayのピッチ・展示会終了後に、実施したオーディエンス審査にて、最も多くの票を獲得したチーム|
 | 選出条件 | - JPHACKS Award Dayにてピッチをすること<br> - JPHACKS Award Dayにて、展示会を実施すること|
-| 賞の内容 | -Award Dayでの賞状授与(チームに1枚)<br> - 公式HPへの掲載<br> - 継続開発支援金(調整中) |
+| 賞の内容 | -Award Dayでの賞状授与(チームに1枚)<br> - JPHACKS特別アイテムの贈呈<br> - 公式HPへの掲載<br> - 継続開発支援金 10万円相当 |
 
 ## 5. JPHACKS Best Hack Award
-JPHACKS Awardにてデモ、展示会を実施したチームの中から、組織委員会及び審査委員会によって、最も優れていると判断されたチームがJPHACKS Best Award として表彰されます。
+JPHACKS Awardにてデモ、展示会を実施したチームの中から、組織委員会及び審査委員会によって、審査基準に則った採点を実施し、集計の結果最も高得点を獲得したチームがJPHACKS Best Award として表彰されます。（Best Audience Awardとのダブル受賞もあり）
 
 |JPHAKS Best Hack Award | 内容 |
 |:-----------|:------------|
-| 選出チーム | 最大2チーム <br> ハードウェア部門・ソフトウェア部門|
-| 選出方法 | JPHACKS Award Dayのピッチ・展示会終了後に、組織委員会及び審査委員会によって審査会を実施して決定。|
+| 選出チーム | 1チーム|
+| 選出方法 | JPHACKS Award Dayのピッチ・展示会終了後に、組織委員会及び審査委員会による審査基準に則った採点の集計により決定。|
 | 選出条件 | - JPHACKS Award Dayにてピッチをすること<br> - JPHACKS Award Dayにて、展示会を実施すること|
-| 賞の内容 | -Award Dayでの賞状授与(チームに1枚)<br> - 公式HPへの掲載<br> - 継続開発支援金(調整中) |
+| 賞の内容 | -Award Dayでの賞状授与(チームに1枚)<br> - JPHACKS特別アイテムの贈呈<br> - 公式HPへの掲載<br> - 継続開発支援金 30万円相当 |
 
 
 ## 6. JPHACKS 審査委員特別賞
@@ -60,4 +60,4 @@ JPHACKS Awardにてデモ、展示会を実施したチームの中から、組�
 | 選出チーム | 当日決定 |
 | 選出方法 | JPHACKS Award Dayのピッチ・展示会終了後に、組織委員会及び審査委員会によって審査会を実施して決定。|
 | 選出条件 | - JPHACKS Award Dayにてピッチをすること<br> - JPHACKS Award Dayにて、展示会を実施すること|
-| 賞の内容 | -Award Dayでの賞状授与(チームに1枚)<br> - 公式HPへの掲載 |
+| 賞の内容 | -Award Dayでの賞状授与(チームに1枚)<br> - 公式HPへの掲載<br> - 継続開発支援金 10万円相当 |

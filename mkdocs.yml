@@ -1,27 +1,26 @@
-site_name: JPHACKS2019 参加者向けガイドライン
+site_name: JPHACKS2020 参加者向けガイドライン
 nav:
   - 全体概要:
       - '開催概要': 'index.md'
       - '事前準備物': 'tools.md'
-      - '開発テーマ': 'theme.md'
-      - 'オリジナルスポンサーテーマ': 'sponsor-theme.md'
+##      - '開発テーマ': 'theme.md'
+##      - 'オリジナルスポンサーテーマ': 'sponsor-theme.md'
       - '開発ルール': 'rule.md'
       - '提出方法': 'how-to-submit.md'
   - 審査・各賞について:
       - '審査基準&審査方法': 'criteria.md'
       - 'JPHACKS Awards': 'jphacks-awards.md'
-      - 'スポンサー Awards': 'sponsor-awards.md'
-  - 提供物関連:
-      - 'テクニカルパートナー提供物': 'technical-support.md'
-      - '提供デバイスリスト': 'devices.md'
-      - 'スポンサー提供物': 'sponsor-products.md'
+##      - 'スポンサー Awards': 'sponsor-awards.md'
+##    - 提供物関連:
+##        - 'スポンサー提供物': 'sponsor-products.md'
   - 参考資料:
       - 'Git/GitHubの使い方': 'how-to-use-git-github.md'
       - 'リファレンス': 'reference.md'
-
   - 参加規約:
       - '参加規約': 'terms.md'
-      - 'アンチハラスメントポリシー': 'anti-harassment.md'
+
 theme:
     name: cinder
     show_sidebar: false
+extra_css:
+  - 'css/custom.css'
