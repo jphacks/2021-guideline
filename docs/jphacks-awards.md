@@ -13,7 +13,7 @@ JPHACKS Hacking Sprintに参加をしたチームから、各エリア1チーム
 | 選出条件 | - JPHACKS Hacking Sprintに参加をすること<br> - JPHACKS Hacking Sprint にて、最終DEMOを実施すること |
 | 賞の内容 | -賞状授与(チーム1枚)<br>-Amazon商品券5,000円分<br> |
 
-## 2. JPHACKS Fialist Award
+## 2. JPHACKS Finalist Award
 JPHACKSに参加をしたチームの中から、審査委員会によってオンライン審査を実施し、最も優れたと判断された15チームに、JPHACKS Awardへの進出権が与えられます。また、FinalistはAward Day当日に表彰を実施します。
 
 |JPHAKS Finalist Award | 内容 |
