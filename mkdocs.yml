@@ -10,9 +10,9 @@ nav:
   - 審査・各賞について:
       - '審査基準&審査方法': 'criteria.md'
       - 'JPHACKS Awards': 'jphacks-awards.md'
-##      - 'スポンサー Awards': 'sponsor-awards.md'
-##    - 提供物関連:
-##        - 'スポンサー提供物': 'sponsor-products.md'
+      - 'スポンサー Awards': 'sponsor-awards.md'
+  - 提供物関連:
+        - 'スポンサー提供物': 'sponsor-products.md'
   - 参考資料:
       - 'Git/GitHubの使い方': 'how-to-use-git-github.md'
       - 'リファレンス': 'reference.md'
