@@ -7,7 +7,7 @@ JPHACKS(ジャパンハックス)は、学生を対象にした日本最大規�
 参加することで、皆さんの新しい未来を切り拓く場になることでしょう。
 
 ## 全体の流れ
-JPHACKS2019の全体のスケジュール及び、イベントの流れは以下のようになっております。
+JPHACKS2020の全体のスケジュール及び、イベントの流れは以下のようになっております。
 
 ### 前半 Hacking Sprint の部
 
@@ -81,7 +81,7 @@ JPHACKSでは、皆様が開発に集中し、より良いプロダクトを構�
 - [テクニカルパートナーからの提供物](technical-support.md)
 - [スポンサー企業からの提供物](sponsor-products.md)
 
-テクニカルパートナーからの技術支援や、スポンサーからの提供物を活用して、Hack Dayに備えましょう。
+テクニカルパートナーからの技術支援や、スポンサーからの提供物を活用して、Hacking Sprintに備えましょう。
 
 ### 3-2. 開発テーマ発表
 開発テーマや、各スポンサーAwardの獲得条件が公開されます。
@@ -117,7 +117,7 @@ Hacking Sprint開催前の平日18時〜20時の時間を使って、スポン�
 当日にZoomURL投稿されますので、Zoomをご利用いただける状態を用意してください。
 
 
-## 5. 10月31日(土)・11月07日(土)：JPHACKS Hack Sprint
+## 5. 10月31日(土)・11月07日(土)：JPHACKS Hacking Sprint
 ### 5-1. Kick Off Day
 
 JPHACKS参加者全体のキックオフイベント。スポンサー企業の紹介や開発テーマ発表、JPHACKS全体の流れなどを実施。企業との交流やオンラインセッションを用意しています。
@@ -179,7 +179,7 @@ JPHACKSでは、**アンチハラスメントポリシー**　を強く意識し
 ### HP
 - [JPHACKSの公式ホームページ](https://jphacks.com)
 - [Facebookページ](https://facebook.com/jphacks)
-- [Twitterアカウント](https://twitter.com/jphacks2019)
+- [Twitterアカウント](https://twitter.com/jphacks2020)
 - [GitHubアカウント](https://github.com/jphacks)
 
 ### お問い合わせ方法
