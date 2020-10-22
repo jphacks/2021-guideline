@@ -88,7 +88,7 @@ JPHACKSでは、皆様が開発に集中し、より良いプロダクトを構�
 
 #### JPHACKSメインテーマ・Award内容一覧
 - [JPHACKS開発テーマ](theme.md)
-- [JPHACKS Aawrd一覧](jphacks-awards.md)
+- [JPHACKS Award一覧](jphacks-awards.md)
 
 #### スポンサーテーマ・各スポンサー賞一覧
 - [オリジナルスポンサーテーマ](sponsor-theme.md)
