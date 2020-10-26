@@ -36,7 +36,7 @@ GitHubとの違いはこちらなどをご参照ください。
 
 
 * [Vagrant](https://www.vagrantup.com/)
-* [VMware](https://www.vmware.com/jp)
+* [VirtualBox](https://www.virtualbox.org/)
 - [Docker](https://www.docker.com/)
 - [Ansible](https://www.ansible.com/)
 
@@ -47,26 +47,28 @@ PaaSとは、クラウド上で管理をすることができる総合的な開�
 [【クラウドサーバーサービス(IaaS)比較まとめ】](https://matome.naver.jp/odai/2141128309524837601)  
 
 - [AWS](https://aws.amazon.com/jp/)
-- [Google App Engin](https://blog.sedesign.co.jp/3463)
+- [Google App Engine](https://cloud.google.com/appengine/)
 * [Microsoft Azure](http://azure.microsoft.com/ja-jp/)
 - [Heroku](https://www.heroku.com/)
-* [IBM Bluemix](https://console.ng.bluemix.net/)
 
 ## モック・デザイン・設計
 ### モック・デザイン
-* [moqups](https://moqups.com/)
-* [inVision](http://www.invisionapp.com/)
-* [Mockup Builder](http://mockupbuilder.com/)
-* [Pixate](http://www.pixate.com/)
+- [figma](https://www.figma.com/)
+- [sketch](https://www.sketch.com/)
+- [Adobe XD](https://www.adobe.com/jp/products/xd.html)
+- [moqups](https://moqups.com/)
+- [inVision](http://www.invisionapp.com/)
+- [Cacco](https://cacoo.com/lang/ja/)
+- [prott](https://prottapp.com/ja/)
 
 ### 設計
-* [Cacco](https://cacoo.com/lang/ja/)
-* [Mysql Workbench](https://www-jp.mysql.com/products/workbench/)
-* [joint](http://www.jointjs.com/)
+- [Cacco](https://cacoo.com/ja/templates/database-erd-software)
+* [Draw.io](https://app.diagrams.net/)
+* [Rappid](http://www.jointjs.com/)
 
 ### API設計・連携
 - [Swagger](https://swagger.io/)
-- [IFTTT](https://ifttt.com/)
+- [API Blueprint Preview](https://atom.io/packages/api-blueprint-preview)
 
 ## 技術選定
 ### Webフレームワーク(サーバサイド)
@@ -90,6 +92,10 @@ PaaSとは、クラウド上で管理をすることができる総合的な開�
 * [PlayFramework](https://www.playframework.com/)
 - [Spring](https://projects.spring.io/spring-framework/)
 
+### mBaaS
+- [Parse](https://parseplatform.org/)
+- [Firebase](https://firebase.google.com/)
+
 ### Webフレームワーク(フロントエンド)
 #### CSSフレームワーク/ライブラリ
 - [Bootstrap](http://getbootstrap.com/)
@@ -100,9 +106,7 @@ PaaSとは、クラウド上で管理をすることができる総合的な開�
 #### Single Page Application
 - [React](https://facebook.github.io/react/)
 - [Vue.js](https://jp.vuejs.org/index.html)
-* [AngularJS](https://angularjs.org/)
-* [Backbone.js](http://backbonejs.org/)
-* [Sails.js(Node.js)](http://sailsjs.org/)
+- [AngularJS](https://angularjs.org/)
 
 ### モバイルフレームワーク
 - [React Native](https://facebook.github.io/react-native/)
@@ -116,12 +120,13 @@ PaaSとは、クラウド上で管理をすることができる総合的な開�
 
 ## ディレクション・コミュニケーション
 ### ディレクション/タスク管理
-* [trello](https://trello.com/)
-* [Waffle.io](https://waffle.io/)
-* [Github issue](https://github.com/)
+- [trello](https://trello.com/)
+- [Github Project](https://github.com/features/project-management/)
+- [jira](https://www.atlassian.com/ja/software/jira)
 
 ### コミュニケーション
 * [Slack](https://slack.com/)
+- [Discord](https://discord.com/)
 * [gitter](https://gitter.im/)
 
 ## プレゼン
@@ -138,8 +143,7 @@ PaaSとは、クラウド上で管理をすることができる総合的な開�
 * [実録！ チーム開発が捗り過ぎるSlack＋GitHub＋Trelloの使い方](http://www.atmarkit.co.jp/ait/articles/1410/29/news042.html)
 * [高速で無駄のない開発をするチームのための”７つ道具”](http://kuranuki.sonicgarden.jp/2014/03/tools.html)
 * [【2015年最新版】プロジェクト管理ツール（無料）が便利すぎる](http://matome.naver.jp/odai/2140555898877842501)
-* [チーム開発環境をワンストップで構築しよう
-～Visual Studio Online](http://matome.naver.jp/odai/2140555898877842501)
+* [チーム開発環境をワンストップで構築しよう～Visual Studio Online](http://matome.naver.jp/odai/2140555898877842501)
 * [自社サービス運営してる会社の開発環境を公開します](http://tech.cookbiz.co.jp/engineering-184)
 * [VagrantとChefでチームの開発環境を共通化する](http://higelog.brassworks.jp/?p=2273)
 * [2014年 Webアプリケーションフレームワークトレンド（PHP / Java / Ruby / Python / Perl）](http://qiita.com/shukotang/items/055058b33b553b48c164)
