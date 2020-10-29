@@ -8,7 +8,7 @@
 ゼロから作らなくても、ある程度のアプリができてしまう超便利テンプレート。
 
 - [Hackathon Starter](https://github.com/sahat/hackathon-starter)  
-主要なSNSや公開APIとのOAth認証、Bootstrapでのテンプレートを活用することができる
+主要なSNSや公開APIとのOAuth認証、Bootstrapでのテンプレートを活用することができる
 - [Bootswatch](https://bootswatch.com/)  
 Bootstrapのフリーテーマ。手軽に超カッコイイフロントが作れてしまう！
 
