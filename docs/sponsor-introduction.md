@@ -19,13 +19,11 @@ TBA
 
 ## ゴールドスポンサー
 
-<!--
 ### クラスメソッド株式会社
-TBA
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5_e4Q4uFMEg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### 富士ゼロックス株式会社
-TBA
--->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qVg3ucR2HN4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### 株式会社ガイアックス
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rU8Qfio85m0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
