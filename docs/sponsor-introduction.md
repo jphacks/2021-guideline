@@ -31,10 +31,11 @@ TBA
 ### インフィニオンテクノロジーズジャパン株式会社
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lsa1iMQSmnU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<!--
-### 株式会社インテリジェントウェーブ
-TBA
--->
+
+### 株式会社インテリジェントウェイブ
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=gqyFNeWn3eM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 
 ### 三菱ケミカル株式会社
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eXXUkR-_uug" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
