@@ -44,5 +44,5 @@ Code Freezeまでの間に、最もたくさんのスコアを獲得したチー
 
 ## エントリー方法
 
-- Slack Channel [#team-collaboration](https://jphacks2020.slack.com/archives/C01DGMA7KUH) に参加する
-- ご自身のチームID（ブロック_20XX）を運営に報告
+- Slack Channel [#team-collaboration](https://jphacks2021.slack.com/archives/C02GY82BFH8) に参加する
+- ご自身のチームID（ブロック_21XX）を運営に報告

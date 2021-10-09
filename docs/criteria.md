@@ -1,6 +1,6 @@
 # 審査基準&審査方法
 
-<iframe src="https://drive.google.com/file/d/1bEbd86kMBeOuZklcZ7ymJwpS7MVbIfyG/preview" width="640" height="480"></iframe>
+※ここに審査委員長からの動画が入ります
 
 ## 審査基準
 ### 1. 問題着眼点・着想点
