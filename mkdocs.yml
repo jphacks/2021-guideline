@@ -15,6 +15,7 @@ nav:
 #      - 'オリジナルスポンサーテーマ': 'sponsor-theme.md'
       - 'スポンサー Awards': 'sponsor-awards.md'
       - 'スポンサー提供物': 'sponsor-products.md'
+      - 'テクニカルサポート': 'technical-support.md'      
   - 参考資料:
       - 'Git/GitHubの使い方': 'how-to-use-git-github.md'
       - 'リファレンス': 'reference.md'
