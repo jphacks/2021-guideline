@@ -125,7 +125,7 @@ JPHACKS参加者全体のキックオフイベント。スポンサー企業の�
 
 |名称|JPHACKS Hacking Sprint Kick Off Day|
 |---|---|
-|開催日程|2020年10月23日（土）|
+|開催日程|2021年10月23日（土）|
 |開催時間|09:00〜19:30(予定)|
 |開催場所|オンライン [会場 Zoom URL (TBA)](/)|
 |参加人数|400名程度|
@@ -139,7 +139,7 @@ JPHACKS参加者全体のキックオフイベント。スポンサー企業の�
 
 |名称|JPHACKS Hacking Sprint Pitch Day|
 |---|---|
-|開催日程|2020年10月30日（土）|
+|開催日程|2021年10月30日（土）|
 |開催時間|09:00〜19:00(予定)|
 |開催場所|オンライン [会場 Zoom URL (TBA)](/)|
 |参加人数|400名程度|
@@ -157,7 +157,7 @@ Hacking Sprint にて提出されたプロダクトの中から、審査委員�
 
 |名称|JPHACKS Award Day|
 |---|---|
-|開催日程|2020年11月20日（土）|
+|開催日程|2021年11月20日（土）|
 |開催時間|09:30〜20:00(予定)|
 |開催場所|オンライン [会場 Zoom URL (TBA)](/)|
 |参加人数|100名程度|
@@ -180,14 +180,14 @@ JPHACKSでは、**アンチハラスメントポリシー**　を強く意識し
 ### HP
 - [JPHACKSの公式ホームページ](https://jphacks.com)
 - [Facebookページ](https://facebook.com/jphacks)
-- [Twitterアカウント](https://twitter.com/jphacks2020)
+- [Twitterアカウント](https://twitter.com/jphacks2021)
 - [GitHubアカウント](https://github.com/jphacks)
 
 ### お問い合わせ方法
 お問い合わせは以下の連絡先までよろしくお願い致します。
 
-- お問い合わせ先：JPHACKS2020 運営事務局
+- お問い合わせ先：JPHACKS2021 運営事務局
 - メール:[support@jphacks.com](mailto:support@jphacks.com)
 
 ----
-JPHACKS2020 運営事務局
+JPHACKS2021 運営事務局

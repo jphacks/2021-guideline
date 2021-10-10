@@ -1,4 +1,4 @@
-site_name: JPHACKS2020 参加者向けガイドライン
+site_name: JPHACKS2021 参加者向けガイドライン
 nav:
   - 全体概要:
       - '開催概要': 'index.md'
@@ -15,7 +15,7 @@ nav:
 #      - 'オリジナルスポンサーテーマ': 'sponsor-theme.md'
       - 'スポンサー Awards': 'sponsor-awards.md'
       - 'スポンサー提供物': 'sponsor-products.md'
-      - 'テクニカルパートナー提供物': 'technical-support.md'      
+      - 'テクニカルパートナー提供物': 'technical-support.md'
   - 参考資料:
       - 'Git/GitHubの使い方': 'how-to-use-git-github.md'
       - 'リファレンス': 'reference.md'
