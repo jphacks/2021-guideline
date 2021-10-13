@@ -4,49 +4,52 @@
 ### 株式会社バンダイナムコ研究所
 TBA
 
+### ベルク
+TBA
+
 ### 富士フイルム株式会社
 TBA
 -->
 
 ### 株式会社日立コンサルティング
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ar9EECVFKoA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ar9EECVFKoA?playsinline=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### KDDI株式会社
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyrfAkD8djc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rP_P_rLy7xg?playsinline=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### 矢崎総業株式会社
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AKwsqO7uxlM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## ゴールドスポンサー
 
+### アドソル日進株式会社
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fSQqP9UIBAs?playsinline=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<!--
+### 株式会社キャリアデザインセンター
+### セルプロモート株式会社
+-->
+
 ### クラスメソッド株式会社
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5_e4Q4uFMEg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UdQUxoc0bG4?playsinline=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### 富士ゼロックス株式会社
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qVg3ucR2HN4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### 株式会社ガイアックス
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rU8Qfio85m0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-### インフィニオンテクノロジーズジャパン株式会社
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lsa1iMQSmnU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+### インフィニオン テクノロジーズ ジャパン株式会社
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lsa1iMQSmnU?playsinline=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ### 株式会社インテリジェントウェイブ
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gqyFNeWn3eM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-
-### 三菱ケミカル株式会社
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eXXUkR-_uug" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-### 日産自動車株式会社
-<iframe width="560" height="315" src="https://www.youtube.com/embed/a96n09NURas" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gqyFNeWn3eM?playsinline=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <!--
-### NTTレゾナント株式会社
-TBA
+### 株式会社Jストリーム
+### 株式会社LIFULL
 -->
 
-### 株式会社スタジオ・アルカナ
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zr758-HfJ10" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+### 株式会社マップクエスト
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5IDAkmlk8HM?playsinline=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<!--
+### 合同会社MIRAISE
+
+-->
+
+### ノキアソリューションズ&ネットワークス合同会社
+<iframe width="560" height="315" src="https://www.youtube.com/embed/amMvOEy1qlo?playsinline=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
