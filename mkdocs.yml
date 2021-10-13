@@ -11,8 +11,8 @@ nav:
       - 'JPHACKS Awards': 'jphacks-awards.md'
       - 'Best Team Collaboration Award': 'team-collaboration-award.md'
   - スポンサー関連:
-#      - 'スポンサー紹介動画': 'sponsor-introduction.md'
-#      - 'オリジナルスポンサーテーマ': 'sponsor-theme.md'
+      - 'スポンサー紹介動画': 'sponsor-introduction.md'
+      - 'オリジナルスポンサーテーマ': 'sponsor-theme.md'
       - 'スポンサー Awards': 'sponsor-awards.md'
       - 'スポンサー提供物': 'sponsor-products.md'
       - 'テクニカルパートナー提供物': 'technical-support.md'
