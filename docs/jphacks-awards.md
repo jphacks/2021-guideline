@@ -1,7 +1,7 @@
 # JPHACKS Awards
 JPHACKSに参加をすると、得ることが出来るAward(賞)について記載いたします。
 
-※ここに審査委員長からの動画が入ります
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tBECvJjZF6o?playsinline=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## 1. Best Hacking Sprint Award
 JPHACKS Hacking Sprintに参加をしたチームから、各ブロック1チームずつ選出されます。

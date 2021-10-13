@@ -11,7 +11,7 @@ Best Team Collaboration Awardは、チーム開発のベストプラクティス
 
 |Best Team Collaboration Award | 内容 |
 |:-----------|:------------|
-| 開催期間 | Hacking Sprint中（10月31日〜11月7日まで）|
+| 開催期間 | Hacking Sprint中（10月23日〜10月30日まで）|
 | 対象 | Hacking Sprint参加チームから、当企画にエントリーをした任意のチーム|
 | 選出チーム | エントリーしたチームから 1チーム |
 | 選出方法 | エントリーしたチームの中で、Hacking SprintのCode Freezeまでの間に、最も高いスコアを獲得したチーム |
