@@ -1,10 +1,10 @@
 # スポンサー紹介
 ## プラチナスポンサー
+### 株式会社バンダイナムコ研究所
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3c3mlypOwrc?playsinline=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### 富士フイルム株式会社
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JAQlY2RWQSs?playsinline=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 
 ### 株式会社ベルク
 <iframe width=“560” height=“315" src=“https://www.youtube.com/embed/DL4ERK6Y58g?playsinline=1” title=“YouTube video player” frameborder=“0” allow=“accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture” allowfullscreen></iframe>
