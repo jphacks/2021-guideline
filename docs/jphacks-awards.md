@@ -19,7 +19,7 @@ JPHACKSに参加をしたチームの中から、審査委員会によってオ�
 |JPHAKS Finalist Award | 内容 |
 |:-----------|:------------|
 | 選出チーム | 合計15チーム |
-| 選出方法 | JPHACKS Hack Day終了後に、審査委員会によってオンライン審査を実施。 |
+| 選出方法 | JPHACKS Hacking Sprint終了後に、審査委員会によってオンライン審査を実施。 |
 | 選出条件 | - JPHACKS Hacking Sprintに参加をすること<br> - JPHACKS Hacking Sprintにて、最終DEMOを実施すること<br> - [必要提出物](how-to-submit.md)が正しく提出されていること |
 | 賞の内容 | -Award Dayでの賞状授与(チーム1枚)<br>-Amazon商品券1万円分 |
 
