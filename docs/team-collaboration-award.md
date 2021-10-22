@@ -46,3 +46,4 @@ Code Freezeまでの間に、最もたくさんのスコアを獲得したチー
 
 - Slack Channel [#team-collaboration](https://jphacks2021.slack.com/archives/C02GY82BFH8) に参加する
 - ご自身のチームID（ブロック_21XX）を運営に報告
+- 対象となるGitHubリポジトリのURLを共有（複数ある場合は全て）
